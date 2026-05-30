@@ -97,7 +97,7 @@ flowchart LR
 
 ## Project Structure
 
-bash
+```bash
 uber_data_pipeline/
 │── data/
 │── notebooks/
@@ -107,17 +107,17 @@ uber_data_pipeline/
 │── architecture/
 │── images/
 │── README.md
-
+```
 
 ## Key Features
 
-✅ End-to-End Data Engineering Pipeline
-✅ Medallion Architecture (Bronze, Silver, Gold)
-✅ Cloud-Based Scalable Processing
-✅ Automated Data Ingestion
-✅ Delta Lake Storage
-✅ Data Transformation with PySpark
-✅ Analytics Ready Data Model
+✅ End-to-End Data Engineering Pipeline\
+✅ Medallion Architecture (Bronze, Silver, Gold)\
+✅ Cloud-Based Scalable Processing\
+✅ Automated Data Ingestion\
+✅ Delta Lake Storage\
+✅ Data Transformation with PySpark\
+✅ Analytics Ready Data Model\
 ✅ GitHub Integration
 
 ## Sample Business Use Cases
@@ -133,9 +133,9 @@ uber_data_pipeline/
 
 ### Step 1: Clone Repository
 
-bash
+```bash
 git clone https://github.com/snehaldattugalande/uber_data_pipeline.git
-
+```
 
 ### Step 2: Configure Azure Services
 
