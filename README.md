@@ -31,29 +31,12 @@ flowchart LR
 
 ## Architecture Screenshot
 
-> Add your architecture diagram screenshot here.
->
-> Recommended file path:
-> `images/architecture.png`
-
-Example:
-
-```md
 ![Architecture](images/architecture.png)
-```
 
 ## Frontend / Dashboard Screenshot
 
-> Add the frontend/dashboard screenshots here.
->
-> Recommended file path:
-> `images/frontend-dashboard.png`
-
-Example:
-
-```md
 ![Frontend Dashboard](images/frontend-dashboard.png)
-```
+
 
 ## Tech Stack
 
@@ -114,7 +97,7 @@ Example:
 
 ## Project Structure
 
-```bash
+bash
 uber_data_pipeline/
 │── data/
 │── notebooks/
@@ -124,7 +107,7 @@ uber_data_pipeline/
 │── architecture/
 │── images/
 │── README.md
-```
+
 
 ## Key Features
 
@@ -150,9 +133,9 @@ uber_data_pipeline/
 
 ### Step 1: Clone Repository
 
-```bash
+bash
 git clone https://github.com/snehaldattugalande/uber_data_pipeline.git
-```
+
 
 ### Step 2: Configure Azure Services
 
@@ -180,23 +163,15 @@ Connect Power BI or preferred BI tool to Gold Layer data.
 
 ### Frontend / Dashboard
 
-Add screenshots here:
-
-```md
 ![Dashboard](images/dashboard.png)
-```
 
 ### Databricks Workflow
 
-```md
 ![Databricks Workflow](images/databricks-workflow.png)
-```
 
 ### Pipeline Execution
 
-```md
 ![ADF Pipeline](images/adf-pipeline.png)
-```
 
 ## Future Enhancements
 
